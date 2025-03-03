@@ -24,11 +24,6 @@
   🗃️ Strong knowledge of database management
   
   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kmaheshwaran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kmaheshwaran/" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">I code in</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -80,6 +75,12 @@
 ###
 ###
 ###
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/kmaheshwaran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kmaheshwaran/" height="30" width="40" /></a>
+</p>
+
 
 ![Maheshwaran K's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMaheshwaran&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
 ![Maheshwaran K's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByMaheshwaran&theme=dark&show_icons=true)
