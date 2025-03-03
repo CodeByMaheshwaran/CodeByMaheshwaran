@@ -7,9 +7,9 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 
-- 👨‍💻 Here's my [portfolio](https://maheshwaran-k.web.app/)
+  👨‍💻 Here's my [portfolio](https://maheshwaran-k.web.app/)
 
-- 💬 Ask me about **anything tech related**, I am happy to help
+  💬 Ask me about **anything tech related**, I am happy to help
 
 <h3 align="left">About me</h3>
 
