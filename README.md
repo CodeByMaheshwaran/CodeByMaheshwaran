@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, It's me Mahesh</h1>
+## Hi there👋, It's me Mahesh</h1>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebymaheshwaran&label=Profile%20views&color=0e75b6&style=flat" alt="codebymaheshwaran" /> </p>
 
@@ -6,7 +6,6 @@
 
 - 💬 Ask me about **Tech**
 
-- 📫 How to reach me **maheshwaran653@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
